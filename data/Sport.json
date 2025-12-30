@@ -1,38 +1,32 @@
 {
   "source": "BBC",
   "topic": "Sport",
-  "count": 5,
-  "parsed_at": "2025-12-28T18:50:06.448224",
+  "count": 4,
+  "parsed_at": "2025-12-30T19:09:03.133072",
   "news": [
     {
-      "title": "Cross sets up Littler tie, Anderson wins thriller",
-      "description": "Rob Cross brushes aside Damon Heta to set up a tie against defending champion Luke Littler at the PDC World Championship.",
-      "data": "Sun, 28 Dec 2025 16:14:08 GMT",
-      "url": "https://www.bbc.com/sport/darts/articles/c4g9njnddl9o?at_medium=RSS&at_campaign=rss"
+      "title": "'Alarm bells should be ringing' over England tickets",
+      "description": "A fan group says \"alarm bells should be ringing at Fifa\" at England fans not taking up their full allocation for the World Cup final and semi-final.",
+      "data": "Tue, 30 Dec 2025 15:53:17 GMT",
+      "url": "https://www.bbc.com/sport/football/articles/czx366y23zdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ex-England batter and ECB boss Morris dies",
-      "description": "Hugh Morris, the former England and Glamorgan batter and England and Wales Cricket Board chief executive, has died at the age of 62.",
-      "data": "Sun, 28 Dec 2025 15:33:24 GMT",
-      "url": "https://www.bbc.com/sport/cricket/articles/c04vpwy61yzo?at_medium=RSS&at_campaign=rss"
+      "title": "A sombre and sobering end to the year - Bunce on fatal crash",
+      "description": "BBC Radio 5 Live's boxing analyst Steve Bunce on the fatal car accident that killed two of Anthony Joshua's close friends.",
+      "data": "Tue, 30 Dec 2025 10:59:03 GMT",
+      "url": "https://www.bbc.com/sport/boxing/articles/cz949z07xxdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ex-England striker Carroll due in court after arrest",
-      "description": "Former Newcastle United, Liverpool and England forward Andy Carroll is due to appear in court on Tuesday after he was charged with breaching a non-molestation order.",
-      "data": "Sun, 28 Dec 2025 11:07:19 GMT",
-      "url": "https://www.bbc.com/sport/football/articles/cwyp02j550xo?at_medium=RSS&at_campaign=rss"
+      "title": "Debutant Hood extends dream World Championship run",
+      "description": "Popular English debutant Justin Hood produces a finishing masterclass to eliminate 11th seed Josh Rock and reach the PDC World Championship quarter-finals.",
+      "data": "Tue, 30 Dec 2025 16:54:41 GMT",
+      "url": "https://www.bbc.com/sport/darts/articles/ce8687gyjyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How releasing Reijnders gave Man City win at Forest",
-      "description": "Match of the Day's Alan Shearer analyses the half-time tactical tweak from Manchester City which released Tijani Reijnders into attacking areas and gave City a vital 2-1 win at Nottingham Forest.",
-      "data": "Sat, 27 Dec 2025 23:55:04 GMT",
-      "url": "https://www.bbc.com/sport/football/videos/cx2dexr6xv7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Head 'reached out' to Duckett after video",
-      "description": "Australia opener Travis Head says he reached out to England counterpart Ben Duckett after a video emerged on social media prior to the Melbourne Test.",
-      "data": "Sun, 28 Dec 2025 08:12:34 GMT",
-      "url": "https://www.bbc.com/sport/cricket/articles/c0kd6rn386jo?at_medium=RSS&at_campaign=rss"
+      "title": "Johnson to decide future after Palace deal agreed",
+      "description": "Brennan Johnson is set to decide whether he wants to join Crystal Palace after the south London club agreed a £35m deal to sign the Tottenham attacker.",
+      "data": "Tue, 30 Dec 2025 12:12:36 GMT",
+      "url": "https://www.bbc.com/sport/football/articles/clyky7nnpgzo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

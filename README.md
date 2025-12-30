@@ -25,7 +25,48 @@ source .venv/bin/activate
 .venv\Scripts\activate
 
 # Install the necessary libraries
-pip install requests beautifulsoup4
+pip install requests beautifulsoup4 lxml
 ```
 
 Read [Install packages in a virtual environment using pip and venv](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+
+---
+
+### The script works at the expense of keys
+
+```bash
+python3 main.py -h
+```
+
+```text
+usage: main.py [-h] (-l | -p PARSE | --parse-all) [--limit LIMIT] [-o OUTPUT]
+
+BBC News RSS Parser
+
+options:
+  -h, --help            show this help message and exit
+  -l, --list-topics     Show available BBC topics
+  -p, --parse PARSE     Parse BBC topic (default: Top_Stories)
+  --parse-all           Parse all BBC topics
+  --limit LIMIT         Limit number of parsed news
+  -o, --output OUTPUT   Output directory
+```
+
+### Examples
+
+```bash
+# Show available topics
+python main.py -l
+
+# Parse a single topic
+python main.py -p world --limit 10
+
+# Parse all topics
+python main.py --parse-all
+```
+
+---
+
+### Output format
+
+Parsed news is saved as a JSON file in the specified output directory.
