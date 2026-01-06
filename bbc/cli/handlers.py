@@ -11,7 +11,7 @@ def handle_list_topics():
 
     for topic in BBS_TOPICS:
         print(f'[\033[32m#\033[0m] {topic}')
-        time.sleep(0.1)
+        time.sleep(0.01)
     
 def handle_parse(topic, limit, output):
     if topic not in BBS_TOPICS:
@@ -43,4 +43,4 @@ def handle_parse_all(limit, output):
             topic
         )
         print(f'[\033[32m+\033[0m] Parsing {topic}')
-        time.sleep(0.05)
+

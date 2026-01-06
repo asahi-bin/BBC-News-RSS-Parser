@@ -25,14 +25,14 @@ bbc/
 │   │   ├── args.py       # Argument parsing (argparse)
 │   │   └── handlers.py   # CLI mode handlers
 │   │
-│   ├── core/             # Core business logic
+│   ├── core/             # Business logic
 │   │   ├── fetcher.py    # RSS / HTTP fetching
 │   │   └── parser.py     # RSS / HTML parsing
 │   │
 │   ├── storage/          # Output layer
 │   │   └── json.py       # Save parsed data to JSON
 │   │
-│   └── config/           # Static configuration
+│   └── config/
 │       ├── header.py     
 │       └── topics.py     # Available BBC RSS topics
 ```
